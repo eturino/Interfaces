@@ -1,0 +1,1 @@
+common util interfaces to be used in other libs or just anywhere
