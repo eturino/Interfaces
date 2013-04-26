@@ -2,6 +2,7 @@
 /**
  * @author eturino
  */
-interface EtuDev_Interfaces_ToArrayAble {
-	public function toArray();
+interface EtuDev_Interfaces_ToArrayAble
+{
+    public function toArray();
 }
